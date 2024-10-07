@@ -33,7 +33,7 @@ The program starts with an initial screen, and by pressing the **INT0** button, 
 To play in **"Two Boards" mode**, the boards must be connected via the **CAN 1 controller** before pressing **INT0**; otherwise, the multiplayer option will not be available (the connection is automatically checked through a handshake between the boards). In this mode, the next menu requires you to choose the current player type, whether Human or NPC. In **multiplayer mode**, after the selection is made, the game waits for the opponent to make their choice before starting.
 
 In summary, the available game modes are:
-- **Single Board** – Human vs Human (extra point 1)
+- **Single Board** – Human vs Human
 - **Single Board** – Human vs NPC
 - **Two Boards** – Human vs Human
 - **Two Boards** – Human vs NPC
