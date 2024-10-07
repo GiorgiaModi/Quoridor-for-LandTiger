@@ -1,6 +1,6 @@
 # Quoridor game
 
-Quoridor game implemented with Keil μVision on a LandTiger board (SoC LPC1768). It supports multiplayer mode via CAN bus.
+Quoridor game implemented with Keil μVision on a LandTiger board (SoC LPC1768). It supports multiplayer mode connecting two boards via CAN bus.
 
 ## Rules of the game
 
